@@ -10,7 +10,7 @@ public class Persona {
     }
     
     public void Saludar(){
-        System.out.println("Saludando...");
+        System.out.println("Saludando a todos");
     }
     
     public boolean esMayor(){
