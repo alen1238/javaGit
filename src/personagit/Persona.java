@@ -13,6 +13,10 @@ public class Persona {
         System.out.println("Saludando...");
     }
     
+    public boolean esMayor(){
+        return this.edad >= 18;
+    }
+    
     public String getNombre() {
         return nombre;
     }
